@@ -48,7 +48,7 @@ tags:
 - Predictive Maintenance
 - Industrial IoT
 - Sensors
-- Data-Center
+- Data Center
 - Fluid Analysis
 - Reliability
 tags_raw:
@@ -61,6 +61,7 @@ tags_raw:
 - Data Centers
 - Fluid Analysis
 - Reliability
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
